@@ -1,4 +1,4 @@
-# Linked Lists vs Dynamic Arrays
+# Linked Lists vs Dynamic Arrays
 
 This is a benchmark test to compare [linked lists](https://en.wikipedia.org/wiki/Linked_list) and [dynamic arrays](https://en.wikipedia.org/wiki/Dynamic_array) in general speed.
 
@@ -26,5 +26,7 @@ With an Intel i7-11800H CPU running Arch Linux, here are the results:
 | 10 000 | 7.9 ms | 102.9 ms |
 | 100 000 | 627.5 ms | 23389.0 ms | 
 
+Here's the data graphed out:
+![20250107_14h24m28s_grim](https://github.com/user-attachments/assets/99ed6574-cc53-44e0-866f-72bc38a195fe)
 
 
