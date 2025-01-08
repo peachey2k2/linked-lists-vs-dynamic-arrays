@@ -2,7 +2,7 @@
 
 This is a benchmark test to compare [linked lists](https://en.wikipedia.org/wiki/Linked_list) and [dynamic arrays](https://en.wikipedia.org/wiki/Dynamic_array) in general speed.
 
-The benchmark dome involves:
+The benchmark done involves:
 - Creating the data structures
 - Inserting `n` unsorted elements in a `(0..n)` range from an external file while keeping the structure sorted
 - Checking the sorted structure for any errors
