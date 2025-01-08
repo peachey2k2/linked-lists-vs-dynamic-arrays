@@ -9,7 +9,7 @@ The benchmark done involves:
 - Freeing all the required memory
 
 > [!NOTE]
-> Even though this test is made in fairness in mind, don't take it as gospel. There is an inherit flaw with benchmarks like these, that they can be optimized or specialized for specific cases, which can dractically change the results.
+> Even though this test is made in fairness in mind, don't take it as gospel. There is an inherit flaw with benchmarks like these, that they can be optimized or specialized for specific cases, which can drastically change the results.
 
 If you look at the code, you'll quickly realize both of them use very naive approaches. This is because I wanted to compare their raw speeds rather than a solution optimized for the specific problem at hand.
 
